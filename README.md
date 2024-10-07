@@ -1,6 +1,6 @@
 # Pizza Recipe
 
-![Pizza Image](./path_to_your_image/pizza.jpg)
+![Pizza Image](./pizza.jpg)
 
 ## BENODIGDHEDEN
 
